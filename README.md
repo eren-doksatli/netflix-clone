@@ -8,7 +8,10 @@
 - bootstrap
 - @splidejs/react-splide
 
-# Sources
+# Source
 
 - API: https://www.themoviedb.org/
+
 # netflix-clone
+
+![](netflix-clone.gif)
